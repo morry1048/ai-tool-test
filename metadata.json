@@ -1,0 +1,6 @@
+{
+  "name": "AI Tool Recommendation Quiz",
+  "description": "A quiz-based tool to help users find the best AI tool (ChatGPT, Gemini, Claude) and subscription plan for their needs. It provides personalized recommendations based on user answers.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
